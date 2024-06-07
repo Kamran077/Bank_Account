@@ -1,0 +1,11 @@
+2024-06-06/22:27:55 Account created 4169-7377 Successfull
+2024-06-06/22:28:16 Account created 4127-2141 Successfull
+Add Balance +100 4169-7377 Successfull
+Add Balance +100 4169-7377 Successfull
+Add Balance +50 4169-7377 Successfull
+Add Balance +30 4169-7377 Successfull
+2024-06-06/22:37:16 Add Balance 6122-2121 Unsuccessfull
+Transfer Money -180 4169-7377 Successfull
+Transfer Money +180 4127-2141 Successfull
+Transfer Money -100 4169-7377 Successfull
+Transfer Money +100 4127-2141 Successfull

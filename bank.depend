@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1717699333 source:c:\users\user\documents\c_projects\bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
